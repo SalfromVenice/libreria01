@@ -1,1 +1,1 @@
-export * as Sal from './Sal';
+export * from './Sal';

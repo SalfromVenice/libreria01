@@ -1,11 +1,11 @@
 import React from "react";
 
-interface SalProps {
+export interface SalProps {
   myName: string
 }
 
 export const Sal = ({ myName }: SalProps) => {
-  return <div className="flex">
+  return <div>
     <p>Ciao {myName}, questa è la mia prima libreria</p>
   </div>
 }

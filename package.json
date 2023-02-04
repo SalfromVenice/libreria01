@@ -12,7 +12,7 @@
     "type": "git",
     "url": "libreria01"
   },
-  "author": "SalfromVenice",
+  "author": "salfromvenice",
   "license": "ISC",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^24.0.1",
