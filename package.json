@@ -3,7 +3,7 @@
   "publishConfig": {
     "@salfromvenice:registry": "https://npm.pkg.github.com"
   },
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Test my first library 01",
   "scripts": {
     "rollup": "rollup -c"
